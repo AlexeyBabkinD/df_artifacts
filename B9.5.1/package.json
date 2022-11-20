@@ -1,0 +1,22 @@
+{
+  "name": "aleexbad_massive_worker",
+  "version": "1.0.0",
+  "description": "massive worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyBabkinD/sf_artifacts.git"
+  },
+  "keywords": [
+    "massive"
+  ],
+  "author": "Alexey Babkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyBabkinD/sf_artifacts/issues"
+  },
+  "homepage": "https://github.com/AlexeyBabkinD/sf_artifacts/B9.5.1#readme"
+}
