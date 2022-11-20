@@ -1,0 +1,22 @@
+{
+  "name": "my_first_test_pack",
+  "version": "1.0.0",
+  "description": "test pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:AlexeyBabkinD/sf_artifacts.git"
+  },
+  "keywords": [
+    "test",
+    "skillfactroy"
+  ],
+  "author": "Alexey Babkin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
